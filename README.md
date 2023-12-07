@@ -1,0 +1,2 @@
+# NextJS
+For NextJS Projects
